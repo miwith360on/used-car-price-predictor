@@ -1,0 +1,151 @@
+price,year,manufacturer,model,condition,cylinders,fuel,odometer,transmission,type
+18795,2017,mazda,altima,excellent,6 cylinders,diesel,192904,automatic,pickup
+3860,2010,toyota,camry,excellent,6 cylinders,diesel,78596,manual,SUV
+41158,2016,mazda,cherokee,excellent,4 cylinders,gas,141101,manual,pickup
+47732,2016,honda,impala,fair,6 cylinders,diesel,181595,automatic,SUV
+14284,2015,jeep,a4,excellent,4 cylinders,diesel,108861,automatic,pickup
+9265,2011,honda,altima,fair,6 cylinders,gas,106740,manual,pickup
+19850,2005,audi,a4,fair,6 cylinders,diesel,35524,manual,pickup
+40194,2005,bmw,impala,excellent,6 cylinders,gas,170354,automatic,sedan
+24962,2017,hyundai,cx-5,excellent,4 cylinders,diesel,175002,manual,sedan
+47131,2013,mazda,altima,good,6 cylinders,gas,151149,automatic,SUV
+19023,2007,hyundai,a4,like new,6 cylinders,gas,145501,automatic,SUV
+44090,2011,mazda,cherokee,excellent,4 cylinders,diesel,40611,automatic,sedan
+4685,2010,ford,f-150,good,6 cylinders,diesel,168056,automatic,SUV
+3769,2012,toyota,civic,good,4 cylinders,diesel,34060,automatic,sedan
+5433,2013,audi,f-150,like new,6 cylinders,diesel,63303,manual,pickup
+8311,2009,jeep,impala,fair,4 cylinders,diesel,180359,manual,SUV
+40819,2005,mazda,camry,excellent,4 cylinders,gas,59711,manual,SUV
+42188,2014,hyundai,civic,like new,6 cylinders,diesel,163026,manual,sedan
+20568,2016,audi,elantra,excellent,4 cylinders,gas,93340,automatic,SUV
+22769,2019,chevrolet,cherokee,good,4 cylinders,gas,122974,automatic,SUV
+31693,2013,chevrolet,elantra,good,4 cylinders,diesel,169646,automatic,pickup
+9396,2021,honda,altima,fair,4 cylinders,gas,160256,automatic,SUV
+30480,2021,jeep,civic,good,4 cylinders,gas,170168,manual,pickup
+44434,2016,ford,elantra,good,4 cylinders,gas,87728,automatic,sedan
+28658,2011,hyundai,elantra,like new,6 cylinders,gas,185088,automatic,SUV
+21942,2006,toyota,a4,excellent,4 cylinders,diesel,31246,manual,pickup
+21431,2007,toyota,f-150,excellent,4 cylinders,gas,196630,manual,sedan
+5747,2021,hyundai,a4,like new,6 cylinders,diesel,169453,manual,SUV
+3189,2009,bmw,civic,fair,6 cylinders,diesel,147796,manual,sedan
+22118,2021,ford,civic,excellent,6 cylinders,gas,187527,automatic,SUV
+38773,2021,audi,impala,good,6 cylinders,diesel,112263,automatic,sedan
+4899,2021,mazda,a4,excellent,6 cylinders,diesel,155090,manual,sedan
+4267,2006,bmw,3 series,good,6 cylinders,diesel,31302,automatic,pickup
+34551,2006,mazda,f-150,fair,6 cylinders,gas,87506,automatic,sedan
+14394,2009,mazda,civic,like new,4 cylinders,diesel,61157,automatic,SUV
+6556,2005,bmw,impala,excellent,4 cylinders,diesel,74917,manual,SUV
+6890,2005,honda,a4,like new,6 cylinders,diesel,116646,automatic,pickup
+44606,2006,chevrolet,f-150,excellent,4 cylinders,gas,103122,manual,SUV
+33740,2016,mazda,a4,good,4 cylinders,diesel,44519,automatic,SUV
+17502,2010,bmw,elantra,like new,4 cylinders,gas,100910,automatic,SUV
+24777,2008,bmw,impala,excellent,6 cylinders,gas,140430,automatic,sedan
+13627,2015,nissan,f-150,good,6 cylinders,gas,91324,manual,sedan
+11792,2021,honda,cx-5,like new,4 cylinders,gas,25408,automatic,SUV
+46323,2010,jeep,altima,like new,6 cylinders,gas,79379,manual,pickup
+46021,2009,nissan,altima,excellent,4 cylinders,gas,45053,manual,sedan
+11433,2006,nissan,f-150,excellent,4 cylinders,diesel,160518,manual,pickup
+46001,2010,hyundai,a4,excellent,4 cylinders,gas,151994,automatic,SUV
+14016,2015,chevrolet,impala,good,4 cylinders,diesel,118723,automatic,SUV
+26897,2020,bmw,altima,excellent,6 cylinders,diesel,71356,automatic,sedan
+5612,2020,chevrolet,impala,like new,6 cylinders,gas,30789,automatic,SUV
+26483,2005,ford,altima,like new,6 cylinders,diesel,117720,manual,sedan
+20159,2013,hyundai,elantra,excellent,4 cylinders,diesel,86656,manual,SUV
+47974,2010,jeep,a4,excellent,6 cylinders,diesel,64028,manual,SUV
+43994,2020,chevrolet,elantra,fair,4 cylinders,diesel,84484,automatic,sedan
+17541,2007,toyota,altima,like new,6 cylinders,gas,52154,manual,sedan
+38920,2008,mazda,cx-5,good,4 cylinders,diesel,22336,automatic,sedan
+29531,2007,ford,cx-5,fair,4 cylinders,gas,123677,manual,SUV
+4585,2011,honda,elantra,excellent,4 cylinders,diesel,87779,automatic,SUV
+6943,2013,jeep,cx-5,excellent,6 cylinders,diesel,39029,automatic,pickup
+26939,2005,ford,altima,like new,6 cylinders,gas,79201,manual,sedan
+22457,2012,mazda,f-150,excellent,6 cylinders,diesel,52265,manual,SUV
+4021,2011,hyundai,elantra,good,6 cylinders,diesel,122916,manual,SUV
+14653,2022,mazda,camry,like new,4 cylinders,diesel,194944,manual,sedan
+46573,2012,nissan,a4,excellent,6 cylinders,gas,66197,automatic,pickup
+16417,2005,mazda,cx-5,like new,6 cylinders,diesel,145733,manual,sedan
+43757,2015,nissan,cx-5,excellent,4 cylinders,gas,174782,manual,pickup
+12692,2022,hyundai,civic,excellent,4 cylinders,diesel,180558,manual,SUV
+48758,2014,audi,3 series,excellent,4 cylinders,gas,91907,automatic,pickup
+9873,2007,nissan,elantra,good,6 cylinders,gas,148876,automatic,SUV
+8675,2011,honda,cherokee,good,4 cylinders,diesel,84435,manual,sedan
+3161,2020,mazda,cx-5,like new,4 cylinders,diesel,60631,automatic,sedan
+40065,2020,mazda,a4,excellent,4 cylinders,gas,149038,manual,sedan
+29557,2021,honda,camry,excellent,6 cylinders,gas,40103,automatic,pickup
+36763,2006,toyota,cx-5,good,4 cylinders,diesel,84772,automatic,SUV
+35606,2005,bmw,camry,excellent,6 cylinders,gas,146108,automatic,sedan
+14534,2020,audi,altima,good,6 cylinders,diesel,34382,automatic,sedan
+32127,2016,jeep,altima,excellent,4 cylinders,diesel,104291,manual,SUV
+43397,2009,nissan,3 series,like new,4 cylinders,diesel,121195,manual,sedan
+28851,2009,honda,f-150,excellent,6 cylinders,diesel,154828,manual,SUV
+4016,2013,hyundai,cherokee,excellent,4 cylinders,gas,40609,automatic,SUV
+27253,2013,nissan,civic,fair,4 cylinders,diesel,167550,manual,SUV
+27276,2007,bmw,3 series,good,6 cylinders,gas,190738,manual,SUV
+26247,2020,hyundai,impala,excellent,6 cylinders,diesel,95683,manual,SUV
+27300,2020,ford,civic,excellent,4 cylinders,gas,144714,automatic,pickup
+11529,2007,mazda,elantra,fair,6 cylinders,diesel,150330,automatic,sedan
+20262,2005,ford,a4,fair,4 cylinders,gas,91315,automatic,pickup
+12268,2015,nissan,impala,good,4 cylinders,gas,97834,manual,sedan
+24271,2021,bmw,impala,fair,4 cylinders,diesel,146205,manual,pickup
+15185,2012,audi,3 series,like new,6 cylinders,diesel,34153,manual,SUV
+24243,2008,nissan,f-150,fair,4 cylinders,diesel,96325,automatic,sedan
+42099,2010,honda,3 series,like new,4 cylinders,diesel,164071,automatic,sedan
+11571,2012,chevrolet,elantra,good,4 cylinders,gas,75318,manual,pickup
+42976,2007,nissan,cx-5,good,6 cylinders,diesel,151886,automatic,pickup
+41044,2020,mazda,cx-5,good,6 cylinders,gas,135033,automatic,sedan
+43774,2007,mazda,f-150,good,6 cylinders,gas,96077,automatic,pickup
+5568,2022,nissan,elantra,good,6 cylinders,diesel,110474,automatic,pickup
+5027,2018,hyundai,f-150,like new,6 cylinders,gas,153515,manual,pickup
+5695,2022,chevrolet,camry,like new,4 cylinders,gas,93319,automatic,SUV
+8258,2006,honda,cx-5,good,6 cylinders,gas,145885,automatic,SUV
+25002,2007,nissan,impala,fair,6 cylinders,gas,129777,automatic,pickup
+42504,2020,hyundai,cherokee,excellent,6 cylinders,diesel,37368,automatic,pickup
+36159,2013,mazda,a4,good,4 cylinders,diesel,166400,manual,SUV
+16986,2008,mazda,elantra,fair,6 cylinders,diesel,111751,manual,SUV
+15666,2005,bmw,civic,excellent,6 cylinders,diesel,47306,automatic,sedan
+41660,2008,nissan,f-150,good,4 cylinders,gas,190987,automatic,sedan
+6561,2005,chevrolet,a4,good,6 cylinders,gas,57219,automatic,SUV
+29854,2018,toyota,civic,like new,4 cylinders,diesel,80279,automatic,pickup
+41952,2020,chevrolet,a4,excellent,4 cylinders,diesel,73028,automatic,pickup
+25662,2012,mazda,cherokee,excellent,4 cylinders,diesel,124263,automatic,pickup
+11392,2011,mazda,civic,fair,4 cylinders,gas,20126,manual,pickup
+33535,2007,ford,3 series,like new,4 cylinders,diesel,72329,automatic,sedan
+16067,2021,mazda,altima,like new,6 cylinders,diesel,47632,manual,SUV
+26599,2005,honda,3 series,like new,4 cylinders,diesel,129945,manual,pickup
+38222,2020,jeep,cx-5,like new,4 cylinders,gas,75176,automatic,sedan
+14837,2016,nissan,altima,excellent,6 cylinders,gas,195399,manual,pickup
+17039,2018,chevrolet,3 series,excellent,4 cylinders,gas,154869,manual,SUV
+33818,2010,jeep,altima,good,6 cylinders,gas,198954,manual,sedan
+22115,2010,hyundai,altima,good,6 cylinders,gas,164790,manual,SUV
+13965,2017,toyota,impala,like new,6 cylinders,gas,54560,manual,SUV
+27538,2012,honda,f-150,like new,4 cylinders,gas,96589,manual,sedan
+45530,2006,chevrolet,f-150,like new,4 cylinders,gas,42116,automatic,sedan
+8056,2005,jeep,impala,good,4 cylinders,diesel,187316,manual,sedan
+35482,2019,toyota,a4,fair,6 cylinders,diesel,152717,manual,sedan
+11110,2005,ford,camry,fair,4 cylinders,gas,198595,manual,sedan
+16773,2009,honda,a4,good,4 cylinders,gas,144085,automatic,sedan
+30266,2020,honda,civic,good,4 cylinders,diesel,137718,manual,sedan
+20412,2008,ford,civic,good,6 cylinders,gas,39256,automatic,pickup
+36270,2007,nissan,altima,good,6 cylinders,gas,120158,manual,SUV
+9910,2021,ford,3 series,good,4 cylinders,gas,188502,automatic,sedan
+48453,2021,honda,3 series,good,4 cylinders,diesel,190354,automatic,pickup
+28446,2016,honda,f-150,like new,4 cylinders,diesel,139719,manual,pickup
+3206,2018,jeep,elantra,like new,4 cylinders,diesel,88244,manual,pickup
+24518,2010,mazda,a4,like new,6 cylinders,diesel,162766,automatic,SUV
+25361,2007,toyota,cx-5,like new,6 cylinders,diesel,76264,manual,sedan
+26419,2013,ford,cherokee,good,6 cylinders,gas,77545,automatic,pickup
+44523,2009,toyota,3 series,fair,6 cylinders,diesel,59224,automatic,SUV
+48151,2021,ford,cherokee,excellent,4 cylinders,gas,117945,automatic,SUV
+25403,2018,hyundai,altima,good,4 cylinders,gas,33224,automatic,SUV
+21141,2007,honda,cherokee,excellent,4 cylinders,diesel,60738,automatic,pickup
+17820,2005,mazda,cx-5,fair,6 cylinders,diesel,176222,manual,sedan
+43342,2005,jeep,impala,like new,4 cylinders,gas,83731,automatic,pickup
+9374,2007,mazda,cx-5,fair,6 cylinders,gas,159649,automatic,pickup
+4678,2022,mazda,cherokee,good,6 cylinders,gas,28070,manual,sedan
+36827,2014,mazda,cx-5,like new,4 cylinders,diesel,146161,automatic,sedan
+19198,2007,toyota,camry,good,4 cylinders,diesel,28666,manual,sedan
+12914,2012,ford,altima,like new,4 cylinders,diesel,77761,manual,SUV
+30890,2018,audi,a4,excellent,6 cylinders,diesel,56368,manual,sedan
+25299,2022,hyundai,impala,excellent,4 cylinders,diesel,157855,automatic,pickup
+46585,2019,chevrolet,3 series,excellent,6 cylinders,gas,61914,automatic,sedan
+46689,2006,mazda,civic,fair,4 cylinders,diesel,147738,automatic,pickup
